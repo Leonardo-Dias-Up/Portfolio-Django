@@ -1,3 +1,6 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
+[![Python 3.6](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)   
+
 # Personal Portfolio Website in Django
 
 <img width="1266" alt="Screen Shot 2022-12-07 at 1 16 02 PM" src="https://github.com/Leonardo-Dias-Up/Django-Portfolio/blob/main/Portfolio.png">
